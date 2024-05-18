@@ -1,0 +1,18 @@
+# Text Files
+*.txt
+*.md
+*.csv
+*.rtf
+*.tex
+*.log
+*.doc
+*.docx
+*.odt
+*.pdf
+*.epub
+*.pages
+*.jsonl
+*.toml
+# Allow requirements.txt
+!requirements.txt
+
